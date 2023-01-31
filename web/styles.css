@@ -1,0 +1,24 @@
+.custom-print {
+    /*background-color: #23393b;*/
+    border-radius: 30px;
+    font-size: 70px;
+    /*color: #ffea00;*/
+    /*border: 2px solid;*/
+    text-align: center;
+    /*padding: 40px;*/
+    margin-bottom: 10px;
+    /*mso-border-shadow: yes;*/
+    /*box-shadow: black;*/
+    color: #ffea00;
+}
+.my-center {
+
+    height: 330px;
+    width: 500px;
+    position: fixed;
+    top: 40%;
+    left: 45%;
+    margin-top: -100px;
+    margin-left: -200px;
+
+}
