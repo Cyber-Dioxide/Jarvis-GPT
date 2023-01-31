@@ -11,8 +11,10 @@ Add following info into config.json file
 ![Screenshot from 2023-01-31 09-24-15](https://user-images.githubusercontent.com/93708296/215664612-02f734ad-1063-4960-bc3e-a75a74fbbf8f.png)
 
 # Usage
-> git clone https://github.com/Cyber-Dioxide/Voice-GPT/
+> git clone https://github.com/Cyber-Dioxide/Voice-GPT
+<br>
 > cd Voice-GPT
+<br>
 > pip install -r requirements.txt
 * change config.json
 > sudo python3 jarvis.py
