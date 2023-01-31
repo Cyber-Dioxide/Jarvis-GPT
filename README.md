@@ -1,4 +1,4 @@
-# Voice-GPT
+# Jarvis-GPT
 Interact with your favourite Chat Bot (ChatGPT) with voice, also play saved musics with it. It can more functions than ChatGPT like shutting down computer , playing songs. It uses ChatGPT api to assist you. If you found it helpful, please STAR IT.
 
 # IMPORTANT (Configuration).
@@ -11,8 +11,8 @@ Add following info into config.json file
 ![Screenshot from 2023-01-31 09-24-15](https://user-images.githubusercontent.com/93708296/215664612-02f734ad-1063-4960-bc3e-a75a74fbbf8f.png)
 
 # Usage
-> git clone https://github.com/Cyber-Dioxide/Voice-GPT <br>
-> cd Voice-GPT <br>
+> git clone https://github.com/Cyber-Dioxide/Jarvis-GPT <br>
+> cd Jarivs-GPT <br>
 > pip install -r requirements.txt <br>
 * change config.json <br>
 > sudo python3 jarvis.py <br>
