@@ -1,5 +1,7 @@
 # Jarvis-GPT
 Interact with your favourite Chat Bot (ChatGPT) with voice, also play saved musics with it. It can more functions than ChatGPT like shutting down computer , playing songs. It uses ChatGPT api to assist you. If you found it helpful, please STAR IT.
+# Service
+For custom chatbot, dm me on instagram @coding_memz
 
 # IMPORTANT (Configuration).
 Add following info into config.json file
