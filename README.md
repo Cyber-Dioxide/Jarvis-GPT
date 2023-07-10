@@ -23,6 +23,7 @@ Add following info into config.json file
 This is created and tested it on Windows 11, Also on Manjaro. It will work perfectly on Windows. Soon i'll add web interface. Its still under testing so if you found any bug, report it.
 
 # ScreenShots
+![Screenshot 2023-07-10 105725](https://github.com/Cyber-Dioxide/Jarvis-GPT/assets/93708296/f282914a-8207-48cc-90f3-2d275c1ef797)
 
 Will Add Soon
 
