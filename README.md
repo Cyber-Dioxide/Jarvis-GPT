@@ -1,7 +1,22 @@
 # Jarvis-GPT
 Interact with your favourite Chat Bot (ChatGPT) with voice, also play saved musics with it. It can more functions than ChatGPT like shutting down computer , playing songs. It uses ChatGPT api to assist you. If you found it helpful, please STAR IT.
-# Service
-For custom chatbot, dm me on instagram @coding_memz
+
+
+# 🙌 Donate to Support Development
+
+If you find this tool useful and want to support future updates, you can donate in crypto:
+
+    BTC: 364wCdw46JBGwtk674N4Cj87ErWNVTNvBc
+
+    ETH: 0x4d2c6d55a7ab2874ef5fd172d78da6e553ab9126
+
+    USDT (TRC20): TSgLpf9AawGLnHYRFhp5XqNgLVk7Y7kZBg
+
+    SOL: 3VGJAH5n8NJFKFoC4GPZWay8QJrL5upd33i7WHMpcGpv
+
+    LTC: MASRzRJPy9UxuagdXqzcY9N89NvPMUreNj
+
+Your support helps keep the project alive and free for everyone. Thank you!
 
 # IMPORTANT (Configuration).
 Add following info into config.json file
